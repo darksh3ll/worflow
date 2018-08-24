@@ -1,10 +1,4 @@
 /* Mobile first
 
 Le concept mobile first consiste à concevoir un site en concevant en priorité la version mobile et en adaptant progressivement celui-ci pour les écrans plus large. */
-body {
-    min-height: 9000px;
-}
-.navbar {
-    position: fixed;
-    width: 100%;
-}
+
